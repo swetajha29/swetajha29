@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/swetajha29/swetajha29/blob/main/banner.jpeg" alt="Sweta Jha Banner" width="100%">
+<img src="https://github.com/swetajha29/swetajha29/blob/main/git%20banner.jpeg" alt="Sweta Jha Banner" width="100%">
 
 <h1>Hi 👋, I'm Sweta Jha</h1>
 
