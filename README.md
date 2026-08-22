@@ -117,9 +117,9 @@
 
 <p align="center">
 
-<img src="https://stats.fiverse.my/api/commits?username=swetajha29" alt="Total Commits">
+<img src="./profile/stats.svg" alt="GitHub Stats">
 
-<img src="https://stats.fiverse.my/api/languages?username=swetajha29" alt="Top Languages">
+<img src="./profile/top-langs.svg" alt="Top Languages">
 
 </p>
 
