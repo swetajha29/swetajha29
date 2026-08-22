@@ -117,13 +117,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swetajha29&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://stats.fiverse.my/api/commits?username=swetajha29" alt="Total Commits">
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetajha29&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://stats.fiverse.my/api/languages?username=swetajha29" alt="Top Languages">
 
 </p>
 
